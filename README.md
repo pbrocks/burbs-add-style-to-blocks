@@ -1,2 +1,2 @@
-# burbs-add-style-to-blocks
+# burbs-blocks-style
 Adding Style to Block Editor.
