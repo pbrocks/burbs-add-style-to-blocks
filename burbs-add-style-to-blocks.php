@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: burbs Add Style to Blocks
+ * Plugin Name: 'burbs Add Style to Blocks
  * Plugin URI: https://github.com/pbrocks/burbs-blocks-style
  * Description: Keep your site healthy, secure, and performing well!
  * Version: 0.1.1
