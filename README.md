@@ -19,6 +19,27 @@ function enqueue_burbs_blocks_style_scripts_styles() {
 }
 ```
 
+
+## Javascript to access global variables
+
+```
+wp.blocks.registerBlockStyle( 'core/paragraph', {
+    name: 'bullet-image',
+    label: 'Inline Bullet Image'
+} );
+```
+
+
+## CSS 
+
+```
+.is-style-bullet-image img {
+    width: 20px;
+    float: left;
+    margin: .5rem 1rem 0 0;
+}
+```
+
 ## After adding style
 
 ![After Style](https://github.com/pbrocks/burbs-add-style-to-blocks/blob/initial/inc/images/inline-inline-after.png?raw=true)
