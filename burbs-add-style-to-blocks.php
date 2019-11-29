@@ -40,7 +40,7 @@ function load_burbs_blocks_style_init() {
 /**
  * Setup WordPress localization support
  *
- * @since 4.0
+ * @since 0.1.1
  */
 function burbs_blocks_style_load_textdomain() {
 	load_plugin_textdomain( 'burbs-blocks-style', false, basename( dirname( __FILE__ ) ) . '/languages' );
