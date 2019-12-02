@@ -2,6 +2,8 @@
 
 Adding Style to Block Editor.
 
+![Turning on Style](https://github.com/pbrocks/burbs-add-style-to-blocks/blob/initial/inc/images/inline-image.gif?raw=true)
+
 ## Before adding style images not inline
 
 ![Before Style](https://github.com/pbrocks/burbs-add-style-to-blocks/blob/initial/inc/images/inline-not-inline.png?raw=true)
